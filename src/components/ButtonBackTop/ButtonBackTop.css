@@ -1,0 +1,18 @@
+.btn_back_top_none{
+    opacity: 0;
+    visibility: hidden;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    transition: all 0.5s;
+}
+.btn_back_top{
+    display: block;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    color: #333;
+    cursor: pointer;
+    font-size: 40px;
+    transition: all 0.5s;
+}

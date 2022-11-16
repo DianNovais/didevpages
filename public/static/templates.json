@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "link": "https://contatosinterativos.netlify.app/",
+        "img": "/static/images/listadecontato.png",
+        "title": "Menu de Contatos",
+        "description": "Desenvolvido para direcionar os usuários para seus meios de contato."
+    },
+    {
+        "id": "2",
+        "link": "",
+        "img": "/static/images/deliciouspage.png",
+        "title": "Delicious Page",
+        "description": "Coloque seu comercio de alimentos nesse template."
+    },
+    {
+        "id": "3",
+        "link": "",
+        "img": "/static/images/didevpage.png",
+        "title": "Di Dev Page",
+        "description": "Coloque qualquer serviço ou produto nesse template."
+    }
+]
